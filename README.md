@@ -30,6 +30,11 @@ This repository is a personal compilation of coding best practices I learned or 
 1. Monorepo just works
 1. Multirepo just works
 
+## Simple ways to answer hard questions
+
+1. Do people care about this feature ? -\> Break it, and see who complain.
+1. Will this change break prod ? -\> Ship it.
+
 ## Disclaimer
 
 Obviously, everything described in here is purely ironic. These pro-tips should not be used in real life for the sake of readability, maintainability and scalability.
