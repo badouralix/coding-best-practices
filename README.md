@@ -16,6 +16,10 @@ This repository is a personal compilation of coding best practices I learned or 
 1. This is a temporary solution
 1. TODO: fix it later
 
+## Reliability
+
+1. Want to know if your change will break prod? Ship it. Prod is the best testing environment because it's the closest thing to prod.
+
 ## Ownership
 
 1. You touch it, you own it
@@ -30,10 +34,10 @@ This repository is a personal compilation of coding best practices I learned or 
 1. Monorepo just works
 1. Multirepo just works
 
-## Simple ways to answer hard questions
+## RFCs
 
-1. Do people care about this feature ? -\> Break it, and see who complain.
-1. Will this change break prod ? -\> Ship it.
+1. RFCs are a waste of time. You want to know how people feel about something you want to do? Do it, and see who complains.
+1. If you have not choice but to write an RFC, make sure it's imprecise enough so that no constructive criticism can be made.
 
 ## Disclaimer
 
