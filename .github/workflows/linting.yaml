@@ -1,5 +1,8 @@
 name: linting
-on: push  # yamllint disable-line rule:truthy
+
+on:  # yamllint disable-line rule:truthy
+- pull_request
+- push
 
 jobs:
   markdown-lint:
