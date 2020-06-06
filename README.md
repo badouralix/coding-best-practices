@@ -28,7 +28,7 @@ This repository is a personal compilation of coding best practices I learned or 
 ## RFCs
 
 1. RFCs are a waste of time. You want to know how people feel about something you want to do? Do it, and see who complains.
-1. If you have not choice but to write an RFC, make sure it's imprecise enough so that no constructive criticism can be made.
+1. If you have no choice but to write an RFC, make sure it's imprecise enough so that no constructive criticism can be made.
 
 ## Versioning
 
