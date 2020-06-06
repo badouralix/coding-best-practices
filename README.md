@@ -21,6 +21,15 @@ This repository is a personal compilation of coding best practices I learned or 
 1. You touch it, you own it
 1. Deletion Driven Development, also known as Scream Driven Development, consists in a nutshell in deleting this unknown and apparently-unused piece of software/infrastructure and transferring ownership to the first person to complain
 
+## Reliability
+
+1. Want to know if your change will break prod? Ship it. Prod is the best testing environment because it's the closest thing to prod.
+
+## RFCs
+
+1. RFCs are a waste of time. You want to know how people feel about something you want to do? Do it, and see who complains.
+1. If you have no choice but to write an RFC, make sure it's imprecise enough so that no constructive criticism can be made.
+
 ## Versioning
 
 1. After introduction a breaking change, add a description in the breaking-change section of the changelog, and only bump the [semver](https://semver.org/) PATCH version
