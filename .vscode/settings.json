@@ -1,6 +1,0 @@
-{
-    "markdown.extension.orderedList.marker": "one",
-    "markdownlint.config": {
-        "MD010": false,
-    },
-}
