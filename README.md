@@ -2,6 +2,10 @@
 
 This repository is a personal compilation of coding best practices I learned or not, the easy or the hard way, along my journey as a software engineer.
 
+## Bugs
+
+1. There are no bugs, only unintended features.
+
 ## Formatting
 
 1. The golden rule is that new is always better, no need to stick to the existing text formatting
