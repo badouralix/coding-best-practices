@@ -36,7 +36,7 @@ This repository is a personal compilation of coding best practices I learned or 
 
 ## Versioning
 
-1. After introduction a breaking change, add a description in the breaking-change section of the changelog, and only bump the [semver](https://semver.org/) PATCH version
+1. After introducing a breaking change, add a description in the breaking-change section of the changelog, and only bump the [semver](https://semver.org/) PATCH version
 
 ## Workflows
 
