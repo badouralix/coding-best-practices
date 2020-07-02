@@ -12,6 +12,7 @@ This repository is a personal compilation of coding best practices I learned or 
 1. In comments and other forms of documentation, infinitive form ( _e.g._ "add" ), third-person singular simple present ( _e.g._ "adds" ), present participle ( _e.g._ "adding" ) and simple past ( _e.g._ "added" ) can be mixed up
 1. `"` and `'` are the same things, one can use them interchangeably in the same file
 1. `"        "` and `"	"` are the same things, one can also use them interchangeably in the same file
+1. Spaces and tabs are the same things, one can also use them interchangeably in the same file
 
 ## Maintenance
 
