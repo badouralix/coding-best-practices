@@ -6,6 +6,10 @@ This repository is a personal compilation of coding best practices I learned or 
 
 1. There are no bugs, only unintended features.
 
+## Development
+
+1. Just commit garbage without proofreading it, thanks to [github suggested changes](https://github.blog/changelog/2018-10-16-suggested-changes/) reviewers will take care of fixing it.
+
 ## Formatting
 
 1. The golden rule is that new is always better, no need to stick to the existing text formatting
