@@ -10,7 +10,7 @@ This repository is a personal compilation of coding best practices I learned or 
 
 1. Just commit garbage without proofreading it, thanks to [github suggested changes](https://github.blog/changelog/2018-10-16-suggested-changes/) reviewers will take care of fixing it.
 1. Friend Driven Development is the practice of approving your friends' pull requests without reading them. Obviously an implicit friendship agreement stipulates that one approval is worth another approval, so that the Friend Driven Development can keep going.
-1. The previous point shall not be confused with the Genius Driven Developement, which consists in approving your teammates' pull requests without reading them because they are geniuses. The approval is merely here to by-pass the branch protection rules. Please refer to [the inner json effect](https://thedailywtf.com/articles/the-inner-json-effect) for more details on this best practice.
+1. The previous point shall not be confused with the Genius Driven Development, which consists in approving your teammates' pull requests without reading them because they are geniuses. The approval is merely here to by-pass the branch protection rules. Please refer to [the inner json effect](https://thedailywtf.com/articles/the-inner-json-effect) for more details on this best practice.
 
 ## Formatting
 
