@@ -35,6 +35,7 @@ This repository is a personal compilation of coding best practices I learned or 
 ## Reliability
 
 1. Want to know if your change will break prod? Ship it. Prod is the best testing environment because it's the closest thing to prod.
+1. Hope for the worst, but prepare for the best.
 
 ## RFCs
 
