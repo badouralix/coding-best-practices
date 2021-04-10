@@ -1,8 +1,10 @@
 name: linting
 
 on:  # yamllint disable-line rule:truthy
-- pull_request
-- push
+  pull_request:
+  push:
+    branches:
+    - main
 
 jobs:
   markdown-lint:
