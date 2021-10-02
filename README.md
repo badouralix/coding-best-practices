@@ -5,6 +5,7 @@ This repository is a personal compilation of coding best practices I learned or 
 ## Bugs
 
 1. There are no bugs, only unintended features.
+1. Since there are no bugs, no need to plan for an emergency rollback.
 
 ## Development
 
